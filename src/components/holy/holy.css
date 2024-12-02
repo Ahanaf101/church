@@ -1,0 +1,16 @@
+.gray{
+    background: url(../../assets/gray.png);
+}
+.sister{
+    background: url(../../assets/sister.png) no-repeat;
+    background-size: cover;
+}
+.darkman{
+    background: url(../../assets/darkman.png);
+}
+.bible{
+    background: url(../../assets/bible.png);
+}
+.photo{
+    background: url(../../assets/painting.png);
+}

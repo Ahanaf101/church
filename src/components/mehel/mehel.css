@@ -1,0 +1,11 @@
+.mehel{
+    background: url(../../assets/mehel.jpg) no-repeat;
+    background-size: cover;
+}
+.mehelbg{
+    background: url(../../assets/mehelbg.png) no-repeat;
+    background-size: cover;
+}
+.solid{
+    background-color: #FFD2A4 ;
+    }
